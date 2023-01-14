@@ -1,0 +1,15 @@
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/bin/Debug/net6.0/zadacha64
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/bin/Debug/net6.0/zadacha64.deps.json
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/bin/Debug/net6.0/zadacha64.runtimeconfig.json
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/bin/Debug/net6.0/zadacha64.dll
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/bin/Debug/net6.0/zadacha64.pdb
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.csproj.AssemblyReference.cache
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.AssemblyInfoInputs.cache
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.AssemblyInfo.cs
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.csproj.CoreCompileInputs.cache
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.dll
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/refint/zadacha64.dll
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.pdb
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/zadacha64.genruntimeconfig.cache
+/Users/eduardlevitov/Desktop/ itogPro/zadacha64/obj/Debug/net6.0/ref/zadacha64.dll
